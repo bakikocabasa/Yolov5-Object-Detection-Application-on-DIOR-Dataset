@@ -332,9 +332,9 @@ The YOLOv5 models trained on the DIOR dataset achieved the following performance
 
 Below are examples of successful detections on the DIOR dataset:
 
-![Example Detection](docs/images/example_detection.jpg)
+![Example Detection](docs/images/sample_video_frame_100.jpg)
 
-The model successfully detects a harbor area with several ships, demonstrating its capability to identify both large-scale infrastructure (harbor) and smaller objects (ships, vehicles) within the same image.
+The model successfully detects a airport area with several vehicles and planes within the same image.
 
 ## Challenges and Limitations
 
